@@ -1,0 +1,282 @@
+https://www.youtube.com/watch?v=kZRX4wldSZM
+
+Real Talk with Facebook Data Scientist
+00:00 I think the whole league is starting to
+00:02 understand that data science is super
+00:03 crucial to performing well in basketball
+00:05 and as a result, I think almost every NBA
+00:09 team has their own data scientist trying
+00:11 to help them out.
+00:15 Hi, I'm Henry from Springboard and I'm here
+00:18 today with Jeevan, a data scientist
+00:20 at Facebook. Thanks so much for joining.
+00:22 Thanks for having me.
+00:24 So first question is how did you become
+00:26 a data scientist? Can you take us through
+00:28 your journey? I never actually planned on
+00:31 becoming a data scientist I went into
+00:34 college wanting to do Pre-med and I
+00:37 actually ended up changing my major
+00:38 three or four times. And as I was just
+00:41 exploring classes and taking classes I
+00:43 thought were interesting, I ended up
+00:45 taking an intro data science class. And I
+00:48 just found that that class was so much
+00:50 more engaging than the other things I
+00:52 was taking. And so from then on, I was
+00:54 just trying to take more and more data
+00:56 science classes and as I got more
+00:58 interested in there, I started looking
+00:59 for jobs and I ended up getting an
+01:01 internship. And then after having like a
+01:04 summer of doing that work was when I
+01:05 really realized this was something I
+01:06 want to pursue. Nice. And what
+01:09 specifically did you like about data
+01:10 science? I really liked that in data
+01:13 science were like we make a hypothesis
+01:15 with some prior knowledge. We try to
+01:18 assess how can we test this hypothesis,
+01:22 what data can be used, what methods can we
+01:24 used. And then even after making all
+01:26 those plans, once you start things change
+01:29 and just very reactive and it's just an
+01:31 exciting process start to end. And what
+01:34 was some of the interesting problems
+01:35 that you were able to solve? Whether through
+01:38 class or at your internship? One of the
+01:40 products I did in a summer internship,
+01:43 that's Sonos, which is a smart speaker
+01:45 company, was trying to predict if
+01:47 customers would buy a second pair of
+01:49 speakers after purchasing their first. So
+01:51 we were able to look at things like does
+01:54 the customer have like a premium music
+01:57 streaming service like Spotify or or
+01:59 SoundCloud. And if they did, they were
+02:01 just much more likely to buy it. And we
+02:03 use that to help better market the
+02:05 speakers. And does Facebook have a
+02:07 program for undergrads doing data
+02:10 science? Yeah,Facebook actually hires a
+02:12 lot of undergrad data
+02:13 scientists. Super interesting because
+02:15 most of the data scientists that we've
+02:17 spoken with have graduate school
+02:20 degrees. How does that work for someone
+02:22 with a bachelor's degree? I think the
+02:25 trend that data scientists need a
+02:27 graduate degree is starting to slowly
+02:28 die down and the reason is that
+02:30 undergrad programs are starting to offer
+02:32 data science classes. In the past, they
+02:36 weren't as prevalent and so people who
+02:37 needed to go to grad school to learn
+02:39 these skills, but now you can learn
+02:40 everything you need in undergrad and
+02:42 with like so many free online tools as
+02:45 well. So I feel like data science is like
+02:47 not a career just for graduate students
+02:49 anymore. What kind of classes do you take
+02:52 as a data science major? As a data
+02:54 science major, most of the classes you'll
+02:56 take are in computer science and
+02:57 statistics. But we also have this thing
+03:00 called the domain emphasis, where you
+03:02 just pick some other field that you're
+03:04 really interested in, say biology or
+03:06 psychology or economics, and you take
+03:08 classes and those too with the hope that
+03:10 you take your data science knowledge and
+03:12 apply them in these fields. After you did
+03:14 your internship at Facebook, you returned
+03:17 for senior year and then went back to
+03:19 Facebook what was that process like? Was
+03:21 it pretty smooth? Or did you have to
+03:23 interview again? No the process was
+03:25 smooth. We got our return offers at the
+03:28 very end of our internship so over my
+03:31 senior year I didn't really have to
+03:32 worry about recruiting or anything. I was
+03:34 just like able to take classes I liked.
+03:36 Now that you're at Facebook, what are you
+03:38 working on now? My team at Facebook is
+03:40 called Auction & Delivery. We're very a
+03:42 cross-functional team. We work with a lot
+03:44 of people in sales and business on ads.
+03:47 We work with teams all across Facebook
+03:49 and marketing, business, sales to maximize
+03:54 the value that users and advertisers
+03:55 both get on the platform. In terms of the
+03:58 day to day work, what do you enjoy the
+04:00 most about data science? Day-to-day
+04:03 something I really like is that data
+04:05 science isn't something you do by
+04:07 yourself. I'm constantly working with
+04:09 other data scientists on the team to get
+04:10 their perspectives or people in other
+04:12 departments that aren't data scientists
+04:14 at all because they influence how we
+04:16 think about problems and how we might go
+04:18 about solving them a lot. So it's very
+04:20 collaborative and I think that makes it
+04:22 really fun.
+04:23 On the flip side, what would you say is
+04:25 the most challenging? A lot of projects
+04:27 you take on in data science aren't very
+04:29 well scoped. So you might take on a
+04:32 project that has like a 20 percent
+04:33 chance of success and you don't know is
+04:36 this even possible to solve until you've
+04:38 already spent so much time on it. But on
+04:41 the flip side, that's also like it's it's
+04:43 pretty exciting to just like be on your
+04:45 toes and try to adapt as the problem
+04:47 evolves. When you're working on these
+04:49 problems, how long are these projects
+04:51 usually before you realize maybe it's
+04:54 not worth continuing? I think that can
+04:56 vary a lot depending on how you want to
+04:59 like plan your projects out. Some stuff I
+05:02 worked on lasted weeks, months and I know
+05:05 of projects that have lasted years. What
+05:07 advice or tips would you have for
+05:10 someone who is currently in college that
+05:12 who wants to become a data scientist but
+05:15 don't have the data science major to
+05:18 pursue? If you're new to data science and
+05:21 looking to add some stuff to your resume,
+05:24 I think Kaggle is a great tool you can
+05:26 go on and make your own little notebook.
+05:29 You don't have to do a machine learning
+05:31 problem although those are there.
+05:32 You can just do exploratory analysis
+05:34 on their datasets and they have so many
+05:37 datasets that you can find something
+05:39 that like you have some domain knowledge
+05:40 and you're interested in. And then from
+05:43 there, you know, make a couple notebooks,
+05:44 put it on your resume, try to
+05:47 showcase different techniques in them.
+05:48 One great thing you can do is look at,
+05:50 for a particular job you're applying for,
+05:52 if they want say they really are
+05:56 interested in exploratory analysis then
+05:59 you can go use that skill in a Kaggle
+06:01 dataset and then put that on your
+06:03 resume and then just like match the
+06:05 skills that you can do with what they're
+06:07 looking for. In terms of your personal
+06:09 growth, what do you see yourself running
+06:12 next? I think a lot of new data
+06:16 scientists are sort of given a project
+06:19 and expect you to execute and the next
+06:22 big step to take is figuring out how to
+06:24 scope your own projects, figuring out
+06:26 what areas, what problems, can we solve
+06:29 with data science. I think a great way to
+06:31 improve on that is
+06:34 you look at the projects that are going
+06:36 on and try to talk to the people who
+06:38 came up with it and get through their
+06:41 thought process. According to your
+06:42 LinkedIn profile, it seems like you
+06:44 play basketball right? Yeah, I do.
+06:47 Can you hypothetically use data science
+06:49 to be a better individual basketball
+06:52 player or help a team won more games?
+06:55 Yeah absolutely. I think the whole league
+06:58 is starting to understand that data
+06:59 science is super crucial to performing
+07:01 well in basketball and as a result, I
+07:04 think almost every NBA team has their
+07:06 own data scientists trying to help now I
+07:09 actually have friends that were data
+07:11 science students at Cal and they went on
+07:13 to become data scientist for NBA teams.
+07:15 And they helped them out with you know
+07:17 picking the most efficient plays, trying
+07:20 to value players properly. Who was like
+07:23 the pioneer in basketball analytics?
+07:26 I think the pioneer basketball analytics
+07:29 is Daryl Morey. So there's actually a
+07:31 term coined after the pioneer of
+07:33 basketball analytics called
+07:35 Morey ball, which is a Daryl Morey's
+07:37 method of playing basketball and he had
+07:40 the Houston Rockets shooting
+07:41 three-pointers just way before everyone
+07:44 else valued them and soon after they
+07:46 noticed how effective it was, just a shot
+07:49 with the better expected value each play,
+07:51 all the other teams started joining
+07:53 along. And now you see that data science
+07:55 has changed the entire landscape of the
+07:57 league. Now his teams are moving so much
+07:59 towards the three-pointer and the open
+08:01 layup and you don't see teams taking
+08:03 long tubes anymore. There have been
+08:04 stories in practice where a long tube is
+08:06 actually like negative points because
+08:08 it's just such a poor efficiency play.
+08:10 That's the way data science has
+08:11 influenced the game so much. So I had a
+08:13 friend who was a data scientist on the
+08:15 Brooklyn Nets and part of his work was
+08:18 trying to figure out a way to value
+08:21 their players and compare that to how
+08:23 the players are evaluated in the free
+08:25 agency market. You know if there's some
+08:27 discrepancy there. If you value a player
+08:30 less than the market values them, then
+08:32 you can get positive assets from that. In
+08:34 today's NBA, if the player wants to
+08:37 maximize that value, what kind of skills
+08:39 should they be working on?
+08:42 that's actually an interesting question
+08:43 because the best player right now
+08:47 doesn't necessarily mean they perform
+08:50 the best on how we evaluate players
+08:53 right now. Because one thing is it's very
+08:55 hard to measure how well a player is
+08:57 defensively. One really important metric
+08:59 to evaluate your best player is their
+09:01 true shooting percentage. It's an
+09:03 advance that became a lot more popular
+09:05 recently as players started shooting
+09:06 more free throws and three-pointers
+09:08 because those are so much more valuable
+09:10 than a regular two-point shot. What's
+09:13 your favorite team right now? My favorite
+09:15 team is the Houston Rockets. Why do you
+09:17 think Carmelo Anthony is out of the league?
+09:20 I think Melo is out because he doesn't
+09:24 have his hoodie on. And if he puts that
+09:26 on, he'll be back in MVP status. I think
+09:28 Carmelo Anthony is sort of a great
+09:32 player in the old league where we really
+09:35 did value those two-point shots a lot
+09:36 but now as we found out three points and
+09:39 free throws are so much more valuable he
+09:41 just doesn't have the efficiency that a
+09:43 lot of other players bring. And last
+09:45 question is what is your life motto? I
+09:48 think a motto that's been really
+09:50 important in my life so far is just to
+09:53 not fear failure. You need to be able to
+09:56 like take on some bigger project that
+09:59 like there might be a high chance of you
+10:01 not not accomplishing it, but that you
+10:05 can't let that stop you and you just
+10:06 have to go for it anyway. Awesome that's
+10:08 great advice. Cool thank you so much for
+10:11 sharing your experience about data
+10:14 science. Thanks
+10:15 Had a great time. Hey I'm Eliza from
+10:17 Springboard. We're an online school that
+10:19 gets you hired. All of our courses come
+10:21 with a job guarantee one-on-one
+10:23 mentorship and real-world projects. We
+10:26 teach UX design, data science and machine
+10:28 learning engineering. To learn more, check
+10:30 out the links below. Happy learning!

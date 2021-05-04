@@ -1,0 +1,349 @@
+https://www.youtube.com/watch?v=stz12TB72XI
+
+Real Talk with Reddit Data Scientist
+00:00 And then I got to apply it to some
+00:01 really fun stuff when I was like testing
+00:03 the metric out like I got to answer
+00:04 definitively do people care more about
+00:06 dogs or cats.
+00:11 Hey I'm Eliza from Springboard. I'm here
+00:13 with Katie a senior data scientist at
+00:15 reddit. Thank you so much for being here.
+00:17 Thanks for having me. How did you become
+00:19 a founding data scientist at Reddit?
+00:21 Take us through your journey. The story
+00:23 is probably not super exciting. I
+00:26 mean it could be. But I had been working
+00:29 as a data scientist in EdTech for a
+00:30 while and a recruiter reached out to me.
+00:32 I interviewed I actually interviewed for
+00:35 a different position and I ended up
+00:36 getting I was originally gonna be
+00:38 working on like trust and safety type
+00:39 stuff but then ended up moving on into a
+00:42 more consumer product role and been
+00:45 there ever since.
+00:46 When I started we had all of our data in
+00:49 hive, which if you've ever worked with
+00:51 the hive database, it's it feels old. You
+00:55 run a query and it takes three hours. And
+00:58 after three hours, you might have like
+00:59 spelled something wrong and you get
+01:00 nothing back. So like that that was
+01:03 something that when I first started felt
+01:05 like a major challenge, but we pretty
+01:06 quickly started migrating all of our
+01:08 data into the Google cloud ecosystem. And
+01:11 like that was a big challenge in and of
+01:12 itself, but like once we got there we had
+01:14 to start building our actual analytics
+01:16 infrastructure. So there was a lot of
+01:18 like putting stuff into ETL, figuring out
+01:20 what are the business questions people
+01:21 actually care about. The process of doing
+01:23 that revealed like data quality problems
+01:25 that we had that then resolved or figure
+01:27 out how to like smooth over that and
+01:28 make data easy to use. And then there's
+01:31 also just a lot of like coaching people
+01:33 and being able to think well with data.
+01:35 It's it's definitely not intuitive. If
+01:38 you've ever studied statistics, there's
+01:41 so many like mental optical illusions I
+01:45 guess that doesn't really you know like
+01:46 the right way to describe a purely
+01:49 mental thing, but like it's really easy
+01:50 to have your intuition hijacked and to
+01:55 think you know something and then find
+01:57 out in the data that you don't. So there
+01:59 was just a lot of work around getting
+02:01 people to think data well and it's
+02:04 something that we still do today and
+02:05 probably will always have to do cuz
+02:07 that's just what the life of a data
+02:08 scientist is. Yeah it's a lot of
+02:10 troubleshooting I imagine.
+02:11 There's always something. What's been one
+02:15 of the coolest projects that you've
+02:16 worked on? I've gotten to do a lot of
+02:18 really interesting stuff. I've touched
+02:21 most parts of the product at this point,
+02:22 but probably one of the most notable
+02:24 ones was something that I did right when
+02:25 I first got to Reddit, which was build
+02:27 our time on site metric. That's a pretty
+02:29 foundational metric in web analytics, so
+02:32 it's a very high impact high profile
+02:33 thing to get to work on and it was very
+02:36 challenging the actual methodology
+02:38 we used was pretty simple, but there was
+02:41 a lot of edge cases, a lot of things that
+02:43 as we dug deeper into the problem, we
+02:45 found out like it's actually really hard
+02:47 to figure out. When something happened in
+02:49 a distributed system, which timestamps
+02:52 do you trust? What do you do
+02:54 when something an event like gets
+02:57 through your pipeline like four days
+02:59 after it's supposed to and it looks like
+03:02 your session lasted four days. Like
+03:04 that's probably not a human thing but
+03:07 you have to figure it out somehow.
+03:09 So it was a really interesting challenge
+03:11 just in terms of like figuring out what
+03:14 were all the boundaries and edge cases.
+03:15 And then I got to apply it to some
+03:17 really fun stuff when I was like testing
+03:19 the metric out like I got to answer it
+03:20 definitively do people care more about
+03:22 dogs or cats. What was the
+03:25 answer? Cats. Hurts me a little bit as a
+03:27 dog lover myself, but I also I can I
+03:30 controlled four different types of
+03:31 animals subreddits and what's wrong with
+03:34 your dog was far higher in time on sight
+03:36 than what's wrong with your cat. So maybe
+03:38 people are just worried about their dogs
+03:39 malfunctioning. I don't know. Cats are
+03:41 all individualistic. They don't need us
+03:43 anyway so that's true.
+03:44 Dogs have friends. Cats have staff. So what
+03:51 are some data scientists specializations
+03:53 and how do they differ? That's a very
+03:56 good question to ask. Data science is
+03:58 it's a newer profession. It's definitely
+04:01 come a long way in terms of like people
+04:03 have a pretty good idea of like what the
+04:05 skill set of data scientist is and like
+04:06 data science job description they're way
+04:08 less insane than they used to be even a
+04:10 couple years ago. But again like it means
+04:13 different things in different places.
+04:14 Sometimes the data scientist is more of
+04:16 like a turbocharged analyst like they're
+04:19 doing a lot of like very just ad hoc
+04:21 analysis but like with sophisticated
+04:23 methodology. So they might be like
+04:25 modeling the like data generating
+04:27 process of some like retention metric or
+04:30 something. Or they might be like doing
+04:33 like really gnarly A/B testing analysis.
+04:36 I would consider that kind of like a
+04:37 decision science I guess
+04:39 specialization for data science. That's
+04:42 that's one of the major ones I would say.
+04:44 And then there's also people who are
+04:46 really what I think is starting to get
+04:49 called machine learning engineers. And
+04:51 that's a lot of like you're putting a
+04:53 system into productions like that's very
+04:55 engineering heavy data science work and
+04:57 it might involve actual modeling. It
+05:01 might not. It might be like you're more
+05:03 of like someone who's building in for a
+05:05 bit like you need to know how the models
+05:06 work to make sure you're implementing it
+05:08 correctly. And yeah those are those are
+05:12 probably the two main ones that I see,
+05:14 but then there's also data scientists
+05:17 who are kind of generalists. There are
+05:19 data scientists who really are sort of
+05:21 like lightweight data engineers like
+05:23 mostly doing like ETL. It really varies a
+05:25 lot. Would you consider yourself to be
+05:28 more a generalist or a specialist? Am I
+05:30 hurt I want to say a generalist. They're
+05:32 definitely like some areas where I've
+05:33 gone pretty deep I know a lot about
+05:35 natural language processing. For example,
+05:37 I wouldn't necessarily say I'm like a
+05:39 natural language processing specialist,
+05:40 though I definitely see myself as more
+05:42 of a generalist. You currently manage the
+05:44 data science internship at reddit.
+05:46 Can you tell me a little bit more about
+05:48 that? So the first time we did it was
+05:49 last year. It was in partnership with
+05:51 the University of San Francisco master's
+05:53 of data science program and it was
+05:56 really cool. We got to interview the
+05:59 candidates. We got to spend several
+06:03 months with them. It was really more of a
+06:04 fellowship, so we had them from I think
+06:07 October to May of this year so it was a
+06:11 very very long project to work with them
+06:14 for all that time. And it was an
+06:18 interesting experience in just like
+06:19 making a company a hospitable place for
+06:21 a junior employee. A lot of companies
+06:25 they they hire senior people not because
+06:27 they have senior problems but because
+06:29 they can't or maybe don't have time to
+06:32 create structure to allow a junior
+06:35 person who maybe doesn't really end
+06:37 and how to negotiate like requirements
+06:39 or deadlines. They can't
+06:41 make that easy so they hire senior
+06:44 people who know how to do even if the
+06:46 work is not for senior people. So having
+06:48 an internship program is
+06:50 very much oriented around cultivating
+06:53 that type of environment so when you
+06:55 actually have interns with you. You spend
+06:59 time like clearing obstacles for them
+07:01 like making sure like they can just do
+07:02 their work. Communicating for them like
+07:05 telling people what they're doing so
+07:07 like they might be able to help them or
+07:08 pick up their work and use it. And when
+07:10 they're not there and sort of the
+07:12 offseason it's about like finding
+07:13 projects that you can curate into intern
+07:16 acceptable projects, so finding things
+07:18 that are high impact or at least like
+07:21 medium impact but also like not so hard
+07:24 that like someone who is not super
+07:25 experienced can't do or also like if it
+07:29 doesn't get done like it won't be the
+07:32 end of the world. It's like a very hard
+07:34 balance to strike but making sure to
+07:35 keep your eyes peeled for projects like
+07:37 that makes a company a great place for
+07:39 interns and junior employees more
+07:41 generally. I think a lot of data
+07:43 scientists end up with grad degrees and
+07:46 I was wondering what's been your
+07:48 experience with a bachelor's degree? how
+07:50 did you break into the industry? I've
+07:51 often joked that the most direct career
+07:54 path into data science is being a jaded
+07:56 physics PhD. I don't think that'll be the
+07:59 case forever especially because a lot of
+08:00 colleges are starting to have undergrad
+08:02 degrees for a data science so this might
+08:04 not even be true for people in the
+08:06 future.
+08:07 But for me, breaking in I think it took
+08:10 a little bit of convincing. I had been an
+08:13 analyst previously so like I certainly
+08:15 had like relevant skills and like I
+08:17 studied a quantitative social science in
+08:21 school, so like I know the stats stuff.
+08:23 But there's just something about
+08:24 credentials that I think a lot of people
+08:26 they trust. It's just like a filter that
+08:30 they can use, so I had to be very
+08:32 aggressive in my applications. I would
+08:35 apply for things that it's like I don't
+08:36 even know if I'm qualified for this. I
+08:38 don't even know if I want to do this. But
+08:40 I will see what happens by applying
+08:43 and like I would have recruiters reach
+08:45 out with like other analyst positions
+08:47 and I'd be like I'm overqualified for
+08:48 that I want to go to a data science position
+08:50 and eventually it worked. It took
+08:53 a lot of persistence and I was
+08:55 frustrated a lot, but eventually I got
+08:58 someone to give me a shot and now that
+09:00 I've been a data scientist like it
+09:02 doesn't matter. The work experience
+09:04 matters a lot more than a background in
+09:08 any particular field. I think that's true
+09:10 really for any job in tech. People want
+09:12 to know if you can do the job. What is
+09:15 some advice that you would give to
+09:16 someone aspiring to be a data scientist?
+09:19 I would say that it is a job that will
+09:25 always make you learn and that can be
+09:28 both good and bad.
+09:29 Sometimes it's exhausting where it's
+09:30 like there's a new technology I have to
+09:32 learn like man I have to like learn the
+09:34 architecture of BERT now. I just learned
+09:36 what an LSTM was. There's so many new
+09:38 things constantly changing that might
+09:40 slow down eventually, but right now the
+09:42 field is so new and it's growing so fast
+09:43 that it's like it feels like you can
+09:45 never learn enough. And like as a part of
+09:49 like be prepared to always learn new
+09:51 things like first of all like learn
+09:53 things you're excited about because
+09:55 you'll want to do it. And that'll make
+09:57 work pleasant if you're digging in deep
+10:00 to something that you already care about.
+10:01 But also like don't stress about knowing
+10:05 everything because it's impossible and
+10:08 technologies and techniques and
+10:10 frameworks they all pop in and out of
+10:13 existence all the time. Like you could go
+10:14 super deep on something and then it
+10:16 would just get deprecated so like focus
+10:18 on what you're interested in what you
+10:20 need to know for your job. What do you do
+10:21 for fun in your free time? I really like
+10:24 baking. I make a mean loaf of sourdough
+10:27 bread and I'm currently doing a great
+10:30 British Bake Off bake along challenge
+10:31 with some different people. And I usually
+10:34 do not win on aesthetics but my flavors
+10:37 are pretty good so I'll take it.
+10:38 Have you had like a what is it's like a
+10:40 sourdough starter right that you have
+10:42 have you had it going for a while? My
+10:45 sourdough starter is four years old. Oh
+10:47 it's like going off to kindergarten. Yeah maybe I
+10:52 don't know. Maybe it's precocious. It's
+10:55 made some good loaves of bread. What do
+11:00 you want to learn next either in your
+11:02 career or
+11:03 just in life? Something that I really
+11:05 want to do is strategy for for data
+11:09 science and machine learning. How people
+11:12 figure out like what's the business
+11:13 model what makes sense for what we're
+11:14 doing here.
+11:15 And how can we align it with like the
+11:18 people who are actually working on it so
+11:20 that like they feel enthusiastic to do
+11:22 it. So you just said you were on vacation.
+11:24 Where do you want to travel to next? I
+11:27 would love to do a road trip across the
+11:29 US. I did it when I was a super little
+11:32 kid so I don't really remember it and I
+11:34 feel like I would feel really
+11:35 differently about it now so I'm just
+11:37 drive across the US. Like dude the
+11:39 national parks are just kind of all over
+11:41 the place I mean it would definitely be
+11:43 better like if I could step off
+11:44 everything. Just like I need to go across
+11:46 the US in seven days. No yeah no I
+11:49 would I would love to visit national
+11:51 parks. I love being outdoors and hiking
+11:53 and just seeing all the different things
+11:55 that are out in the world so. Thanks yeah.
+11:58 The last question what is your favorite
+12:00 motto? Never attribute to malice what can
+12:03 be attributed to incompetence, which
+12:07 maybe seems a little dark but no I
+12:10 usually I feel like people are not
+12:11 actually trying to screw you over they
+12:13 just like kind of forgot what they were
+12:15 doing or weren't paying attention or
+12:17 something if you just talk through
+12:19 misunderstandings, usually you can
+12:20 resolve them. So I think that's all the
+12:22 time that we have for today. Thank you so
+12:24 much for coming in and telling us all
+12:25 about your data science experience. Yeah
+12:27 thank you. It's been super fun.
+12:29 Hey I'm Eliza from Springboard. We're an
+12:31 online school that gets you hired. All of
+12:33 our courses come with a job guarantee
+12:34 one-on-one mentorship and real-world
+12:37 projects we teach UX design data science
+12:40 and machine learning engineering. To
+12:42 learn more, check out the links below.
+12:43 Happy learning!

@@ -1,0 +1,28 @@
+https://www.quora.com/Whats-the-difference-between-being-a-data-scientist-at-a-large-company-vs-a-startup
+
+Brian D'Alessandro, Director of Data Science at Zocdoc (2016-present)
+I’ve been a data scientist in both. For bigger companies it really depends on the company and industry (think Facebook vs Pepsi). Consider this assessment trends vs. absolute judgments too.
+Larger Company - expect your role to be much more specialized. I.e., you may just be focused on a particular business vertical (product feature vs marketing), and the set of technologies you use day-to-day may be smaller. For instance, you may only need to work on an aspect of Search, a Recommender System or marketing attribution. You should also expect (or hope at least) to have more robust data engineering support and thus spend more time on analysis than structuring data. You’ll also likely deal with more process and bureaucracy, and your direct marginal impact to the org will be much smaller (certainly as a %, not always as an absolute).
+Startup - you might have to do a little of everything, including things you don’t think are ‘data science.’ You may be called into a sales meeting to help explain the system to potential clients. If the service goes down, you may be joining other engineers to debug. Expect to do your own data engineering, even to the point of spending months developing data pipelines and not analysis. The company may change strategy over night (often after a board meeting), and all of your prior work gets dropped to go after the new pursuit. The plus side of the chaos is you’ll likely develop a larger range of skills, get better business acumen and have the potential for a much larger impact. Another aspect is growth. Becoming a Director or VP at an established large company is very difficult. But if you’re an early employee at a startup that eventually grows, you’re going to experience that growth in your career progression.
+My advice to newer data scientists is to start at larger companies where you’ll get the mentorship and structure to really hone your craft. Once you have more maturity and confidence, join a startup to accelerate your career. After you have a family and kids, go back to a large company so you can avoid the added stress :-)
+Vyasraj Vaidya, lives in Hyderabad, Telangana, India (2017-present)
+Working as a Data Scientist:
+In large companies: Infrastructure is ready but for smaller ones - you may need to build one.
+In large companies: Data storage and extraction is easier. Assuming that you will be working with large datasets, the data management is easier. Application of ML algorithms on such large datasets will become extremely complicated. You cannot do this on local machines.
+Deploying a data science experiments as a web based services is complicated - In large companies, you will have ready made services or tools for deployment like for example Azure ML studio and AWS (which is why they are world leaders!). There may be some companies that use these tools as 3rd party services.
+Deploying these services may have to done by building their own service for smaller companies unless you want to use services like AWS or Azure ML studio. In startups, you have a choice to use SAS and SPSS. In case you do not want to use services mentioned above, data training and real time data ingestion would be the greatest problem you will face.
+To be concise and precise, a one line answer for the question would be that - you will need to think of end to end solutions for everything when working with smaller companies which may not be required in larger ones.
+Jason T Widjaja, Analytics and data science team lead
+In a startup, the title says ‘data scientist’, but it is really:
+data infrastructure management AND
+BI & reporting analyst AND
+database and data warehousing analyst AND
+high performance data engineer AND
+data scientist
+In a large company, the title says ‘data scientist’, but it is really:
+Enterprise Hadoop platform - Mahout team (Eastern Europe) OR
+Machine learning model management, consumer marketing team OR
+Data mining project manager, finance time series forecasting team OR
+Data scientist (manufacturing operations), stochastic optimization team
+
+

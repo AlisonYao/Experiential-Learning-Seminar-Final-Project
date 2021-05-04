@@ -1,0 +1,36 @@
+Soner Yıldırım
+
+The Dark Side of the Sexiest Job of the 21st Century
+What is it like to be a data scientist?
+In October 2012, a Harvard Business Review article described data scientist as the sexiest job of the 21st century. This article is not the reason why data science is so popular now but I’m pretty sure it motivated some people to become a data scientist.
+Before I start on the downbeat, let me state that I’m glad that I made a career change to work in the field of data science. I love learning, practicing, and implementing in this field. It might be the only job I enjoy in my professional career.
+However, there is a dark side which is hard to see before you get in the field. The box is all shiny and beautiful from the outside. Once you open it, you see some things that might lower your motivation a little.
+When I first created a jupyter notebook that contains a machine learning model, I was super excited. The model achieved a pretty high accuracy. I felt like I’m already tackling down some problems.
+The problem was that it was a simple and ready-to-use dataset. I could achieve high accuracy by using any off-the-shelf machine learning algorithm without understanding what is going on under the hood. I did not have to do any feature engineering or extraction.
+To be a little more pessimistic, machine learning is only a small part of the data science pie. You can aim to be a machine learning engineer but not every business can afford to have a separate machine learning engineer.
+Big tech companies usually have data science teams and separate positions that focus on different part of the data science pipeline. However, those positions are limited.
+Medium or low level companies that want to adapt data science in their business tend to hire one data scientist or two and expect them to handle the entire workflow. Thus, it will dramatically increase your chance to learn about each step in the workflow.
+This is what I mean by the dark side of being a data scientist. You have to learn a lot more than you could anticipate.
+If you follow a self-taught process, the learning process is more dynamic. The more you learn, the less you feel like you know.
+Data science is an interdisciplinary field that combines statistics, math, and programming. On top of those, you need to have domain knowledge in some cases.
+There is a wide variety of topics and tools you need to learn to become a data scientist. I will try to briefly explain what they are and why they are important.
+Data scientist roles tend to be full stack.
+Data is the fuel of any data science related product. Collecting and maintaining the data is fundamental. You are likely to engage with a SQL and NoSQL database a lot. You will probably not be in a position where you can just tell “let me see the data”. It is for your best to be able to get your own data from a database.
+The next step might be the most important of all. You need to explore the data. I’m not talking about calculating the mean or creating simple distribution plots. In order to discover the structure or relate variables in a real-life dataset, you need to have to comprehend the statistical concepts thoroughly.
+Having a decent knowledge of statistics will make it easier for you understand the machine learning algorithms. Without statistical concepts, you wouldn’t be able to explain why linear regression is or is not appropriate for a given task.
+You also need to cover some topics in linear algebra and math to a certain extent. The computations done by a machine learning or deep learning models involve matrix multiplications. In order to understand how the optimization algorithms used in the models, some fundamental math knowledge is necessary.
+It is not enough just to know these topics. You need to be able to implement them. Thus, it is inevitable to learn programming skills. You don’t have to be a software developer but all these algorithms and data analysis tools are used via a programming language.
+There are many alternatives but the most commonly used programming languages in data science are Python and R. There exist many packages that expedite the data analysis and machine learning process but a basic level of programming skill is needed to use them.
+Let’s say you identify a problem and design a solution to the problem that involves data. You collect, clean, and maintain the data. A useful and accurate model is created.
+The next step is to deploy your model. If your work stays in the a jupyter notebook, it is useless. It cannot create any value. MLOps is a whole different world. There are many alternatives. It is hard to even decide which one to use.
+If you work on a medium or big scale project, you are likely to use a version control system such as Git. You should not be unaware of such tools. Moreover, it will make your life a lot easier to be comfortable with working on a Linux environment.
+Last but not least, you may also need to have hands-on cloud computing experience. More and more companies start to maintain their data on the cloud. They do not possess physical servers anymore.
+I have tried to touch on almost anything that I think you need to learn. There is, of course, no limit on what you can or should learn. The more skills you have, the more appealing you become to the companies.
+The dark side becomes more clear after you complete a few data science certifications. You feel like you are ready to tackle down a business problem. However, when you encounter a real-life problem, you face the dark side.
+The certifications are helpful but will definitely not make you a data scientist in a few months. Please keep that in mind when you set your goals. Improving your skills in all these areas will take a long time. It is a challenging yet promising task.
+Conclusion
+You may argue that it is not necessary to obtain all these skills. You are right in some cases. However, considering the popularity and potential of data science, having all these skills will increase your chance to get in the field.
+If you browse through job postings on LinkedIn or any other portal, you will see what most companies expect from a data scientist position.
+There are specific positions such as machine learning researcher but they are limited and require a high level of experience.
+I don’t want to sound pessimistic. My goal was to shed light on the journey of a data scientist. You should set realistic goals and be ready to sacrifice a quite amount of time and effort.
+Thank you for reading. Please let me know if you have any feedback.

@@ -1,0 +1,174 @@
+https://www.youtube.com/watch?v=KOU2Zu3h7zM
+
+Real Talk with Uber Data Scientist
+00:00 Bikes and scooters are really fun. First
+00:02 of all, it's a brand new product to just
+00:05 not us, but also to the world. Hey there,
+00:12 I'm Molly from Springboard and I'm here
+00:14 with Shae a data scientist at Uber. Shae
+00:16 thanks so much for being here today.
+00:17 Thanks for having me. So let's start from
+00:20 the beginning. How did you become a data
+00:21 scientist to Uber? In college I studied
+00:24 statistics and then computer science and
+00:27 after I graduated, I knew I wanted to be
+00:29 a data scientist somewhere.
+00:30 Uber was my top choice because I used
+00:33 the product a lot and I felt like I had
+00:35 a really good understanding of what it's
+00:37 like to be a customer. And number two I
+00:40 just was always intrigued by the product
+00:42 itself.
+00:42 I loved sometimes seeing the cars little
+00:45 cars move around and when you booked a
+00:47 ride they're always so so on point with
+00:49 you know the ETA and with the amount
+00:52 charged. And everything was just working
+00:54 so smoothly and I wanted to know what
+00:56 was the mechanics behind it and I felt
+00:58 like joining the company would help me
+00:59 get there. So within Uber what teams do
+01:02 you work on? Right now I'm working on the
+01:04 bikes and scooters team and previously I
+01:06 was on driver.
+01:06 Oh cool! How do they differ? The biggest
+01:09 difference between the two teams is that
+01:11 on bikes and scooters, we not only have
+01:13 mobile data, but bikes of scooters all
+01:15 have hardware on there that capture a
+01:19 lot of IOT device like data a lot of
+01:22 firmware data. All of these different
+01:24 data could add another dimension to how
+01:27 you can understand the users' journey.
+01:28 When they're actually on the scooter or
+01:30 bike, what exactly is their experience.
+01:32 Because the entire scooters and bikes
+01:34 experience extends from booking it and
+01:38 the entire trip and ending it and then
+01:40 reusing it and being able to
+01:42 consistently find it on the street.
+01:43 What's it like working with bikes and
+01:46 scooters? Bikes and scooters are really
+01:48 fun. First of all, it's a brand new
+01:51 product to just not us, but also to the
+01:54 world. And I would say that you have to
+01:58 deal with data from a lot of different
+02:00 sources. For example, right now it's
+02:02 you're not just dealing with customer
+02:04 data anymore. You're looking at an IOT
+02:06 device and you're looking at mobile. And
+02:08 you're looking at the you have to use
+02:10 all this data to tie together
+02:11 users journey from where they're trying
+02:14 to go somewhere and they're trying to
+02:16 find a way to get there. And they're
+02:18 choosing to use this product and then
+02:20 the entire on trip experience till
+02:22 afterwards and how do you repeatedly
+02:24 engage them. You have to synthesize an
+02:27 understanding of what is actually
+02:28 happening to a user and what do they
+02:30 really want out of your product. So
+02:33 that's a really challenging part is
+02:35 combining these different types of data
+02:37 together. What are some exciting data
+02:39 principles that you're able to apply
+02:40 every day at work? I think the most
+02:42 exciting part is when you run
+02:44 experiments sometimes you run into
+02:47 network effects. Sometimes you run into
+02:49 cannibalization and you have to think of
+02:51 creative ways to address these problems
+02:52 while keeping your experiment results
+02:54 very robust. One example is say you want
+02:57 to run promotions on a set of bikes and
+03:00 scooters for a certain area and you want
+03:04 to see if that increases how many trips
+03:06 people are actually taking. Now by
+03:08 applying the promotion, you take away
+03:11 more supply for from the control group
+03:15 if the treatment group actually do end
+03:17 up taking more bikes and scooters which
+03:19 might lower your conversion rate for
+03:21 your control group. Basically how do you
+03:23 make sure that your environmental
+03:24 controls are actually controlled. What
+03:27 excites you about working with data
+03:28 science everyday? I think the most
+03:30 exciting part about being a data
+03:31 scientist is being able to derive
+03:34 insights and make decisions from
+03:37 incomplete information. Every day you are
+03:39 making decisions and you never know if
+03:42 they're right or wrong. And you never
+03:44 have complete information. But data
+03:46 science actually quantifies that sort of
+03:48 uncertainty and I think it's a very
+03:50 empowering experience to be able to help
+03:52 businesses make decisions and move
+03:54 forward, even when they have incomplete
+03:56 information. And then in contrast but
+03:58 something that you might not like as
+03:59 much about being a data scientist? I
+04:01 think one thing that all data scientist
+04:03 hate the most is messy data that they
+04:06 have to clean up and somehow debug. I
+04:09 encounter this in my day to day work and
+04:11 you have to write a lot of sequels and a
+04:13 lot of that piece of the job is
+04:16 unavoidable but I think it's also nice
+04:18 to always see that as an opportunity to
+04:21 improve the platform and infra. It's a
+04:25 good opportunity for people to say hey
+04:26 maybe I want to contribute a piece of
+04:28 open-source code to write something that
+04:30 could help make other people's lives
+04:32 easier or suggest something to your
+04:34 company to build internal tools or even
+04:36 build it yourself. So would you mind
+04:38 speaking to your experience first being
+04:41 in a formal educational setting and then
+04:43 immediately going into the workforce?
+04:44 What was that like and do you have any
+04:46 advice for people who want to have a
+04:47 similar career path as you? I think it
+04:49 was very exciting and overwhelming at
+04:51 the same time. The things you learn in
+04:53 school are all printed on a textbook and
+04:56 a lot of times they're outdated sort of
+04:58 old material. And in the workforce you
+05:01 realize that people are using new
+05:02 methods. They're using experimental
+05:04 methods and people are constantly on top
+05:07 of new papers that are published.
+05:08 Especially in the world of data science
+05:10 where new algorithms are developed every
+05:12 year at conferences, I think one
+05:15 piece of advice I would have is to stay
+05:17 on top of news and stay informed, go to
+05:20 conferences, meet people because data
+05:23 science is not a super mature field
+05:25 and there's always opportunities for
+05:27 improvement. You should never be afraid
+05:28 to try new algorithms yourself or even
+05:31 try to develop a new method. Cool!
+05:33 What's your favorite podcast? My favorite
+05:36 podcast is Seneca it's actually a
+05:40 podcast that describes present-day
+05:42 Chinese politics and economics and
+05:46 everything about China that you need to
+05:48 know. I like to stay informed since I
+05:51 left China when I was 14 so it's a good
+05:54 way to learn about how the macro is
+05:56 going in my home country. If you could
+05:58 travel back in time, what decade or
+06:00 period of time would you go back to? If I
+06:02 could also choose where I can be, then I
+06:06 would say that I want to travel back in
+06:08 time to work with Alan Turing. Love the
+06:12 movie imitation game. I think that was a
+06:14 main game changer for me in college when
+06:17 I was trying to decide what I wanted to
+06:18 do. Well I think that's all we have for
+06:20 today. Thanks so much for joining us
+06:21 Thanks for having me.

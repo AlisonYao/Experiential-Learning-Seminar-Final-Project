@@ -1,0 +1,123 @@
+https://www.youtube.com/watch?v=1UjMBw_7Gi8
+
+Data Science: Startup vs. Large Corporation
+00:00 Hello everyone, Ken here. Today I'm
+00:02 talking about the differences in the
+00:04 data science role at a start-up versus a
+00:08 large corporation. I've worked as a data
+00:10 scientist and a data scientist manager
+00:12 at both startups and fortune 100
+00:14 organizations and there's some pretty
+00:16 stark differences between the working
+00:18 experience in this role. Before I get
+00:21 into the meat here, I'm gonna please
+00:22 remind you to like this video if you
+00:24 enjoy it really helps me spread and grow
+00:27 my channel. Also subscribe if you'd like
+00:29 to see more content like this. Now the
+00:31 first thing I'd like to talk about is
+00:33 the actual nature of the data science
+00:35 role. In smaller startups, usually data
+00:38 scientists are responsible for a lot
+00:41 more breadth in terms of activities. So
+00:44 you're maybe not going to be doing data
+00:45 science all the time. You could be
+00:46 helping with even marketing strategy or
+00:49 designing the infrastructure of the
+00:51 databases there's a lot of things you
+00:54 can do a lot of ways that you can pitch
+00:55 in. And this is really great experience
+00:57 especially if you want to be moving into
+01:00 management or managing of other parts of
+01:03 the organization aside from data science
+01:05 down the road. It's still a great place
+01:07 to learn data science because you
+01:09 understand the strategy of why you're setting
+01:11 up certain analyses and why a certain
+01:15 project fits into the bigger picture of
+01:17 the company. In large organizations, big
+01:19 corporations, the role of the data
+01:21 scientist is generally a lot more
+01:23 defined you're probably going to work in
+01:26 one fairly specific area with fairly
+01:29 specific constraints. For example, when I
+01:31 was at GE, one of the guys I worked with --
+01:33 his whole responsibility was to work on
+01:36 and improve the wheel wear
+01:40 model for locomotives. So, no I mean that
+01:44 was a cool job. He absolutely loved it,
+01:46 but his focus was very very specific in
+01:49 that area. If a lot of tasks, a lot of
+01:53 projects can seem overwhelming to you, this
+01:55 is totally a great option. You can
+01:57 completely master one subject area and
+01:59 that can be the focus of a large part of
+02:02 your career. Culturally in a start-up,
+02:04 things can happen very fast. You can be
+02:07 working on one project. You get it to
+02:09 where it's good enough and then you
+02:11 start working on another one. You can
+02:13 pivot in terms of your strategy and the
+02:16 projects that you were working on before
+02:18 aren't necessarily relevant anymore. And
+02:20 that's something to be prepared for. If
+02:22 you like that fast-paced atmosphere this
+02:25 is absolutely something for you. On the
+02:27 other hand, in large corporations, things can
+02:30 generally happen a lot slower because of
+02:33 structured corporate culture. There's
+02:36 generally a hierarchy and things have to
+02:38 get approved in order for them to
+02:41 actually get done. So even to get access
+02:44 to the data source, get preliminary
+02:47 approval to have a dashboard built. This
+02:50 has to go through some approval process
+02:52 from the higher-ups. And that can be a
+02:55 bit frustrating sometimes, but it also
+02:57 means that you're gonna be working on
+02:59 projects that are very carefully curated.
+03:02 So from a data perspective, I think any
+03:06 organization big or small can have data
+03:08 quality issues. Usually larger
+03:10 organizations struggle with data because
+03:12 of legacy systems legacy things that
+03:15 they've been collecting that don't
+03:17 cooperate or integrate well with the new
+03:19 data that they have that's very relevant
+03:21 and useful. So if you are going to have a
+03:25 wealth of data, but managing it can be a
+03:27 bit difficult from a data science
+03:29 perspective. On the other hand, at a
+03:31 start-up usually there is not enough
+03:35 data. You know there's some data
+03:37 collected, but there's not enough time or the
+03:40 function that you want to understand
+03:42 better hasn't been around for long
+03:43 enough for you to be able to use this
+03:46 data in analysis. So there's two
+03:48 different data challenges at these two
+03:50 different levels and you kind of have to
+03:52 figure out: one, this is very specific to
+03:54 the organization so what your
+03:56 organization and what the organization
+03:57 that you're looking at is struggling
+03:59 with and two, what type of challenge that
+04:02 you like do you like working with sparse
+04:03 data? Or do you like cleaning, cutting and
+04:06 manipulating data so that it can be a
+04:08 partial match and can be workable within
+04:10 your algorithms. Overall, I personally
+04:13 prefer working in the startup
+04:15 environment better. I really love data
+04:17 science, but I love other elements of
+04:19 business as well.
+04:20 I like management. I like communicating
+04:22 with people. And I found that in a
+04:24 start-up I had ownership of a lot more
+04:27 things.
+04:27 And I was able to really make an impact.
+04:29 For me, seeing an impact in an
+04:32 organization is extremely extremely
+04:34 meaningful. Thank you so much for
+04:37 watching and please enjoy your data
+04:38 science journey.
