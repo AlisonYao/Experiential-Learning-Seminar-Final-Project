@@ -12,7 +12,7 @@ All data is collection from the public domain. They are mostly trancripts from Y
 
 I mainly conducted qualitative research using interviews and digital ethnography.
 
-### Quantitative
+### Quantitative 
 
 I also did a little bit of quantitative research by examining the word frequency on all the text corpus. The results support my theories in qualitative research.
 
